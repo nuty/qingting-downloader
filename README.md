@@ -1,1 +1,1 @@
-# qt-downloader
+# qingting-downloader
